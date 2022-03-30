@@ -1,2 +1,2 @@
 # demo
-demo repo
+demo repo is using as Git assignment
